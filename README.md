@@ -1,2 +1,2 @@
-# webpack5_starter
-starter kit for preact X and webpack 5
+# personalTrainer
+early build for personal trainer portfolio site
